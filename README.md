@@ -1,2 +1,1 @@
-# yukta-
-personal portfolio
+# yukta-personal portfolio
